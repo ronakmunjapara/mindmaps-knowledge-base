@@ -6,6 +6,8 @@ Interactive Mindmaps Viewer: Create an HTML+JavaScript-based interactive app for
 
 Below is a detailed **.NET Ecosystem Roadmap** that covers all the key versions and components of the .NET platform, including **.NET Framework**, **.NET Core**, **.NET 5+**, **.NET MVC**, **Razor Pages**, **Web Forms**, and **Web API**. This roadmap is structured logically, from traditional .NET Framework to the latest developments in the ecosystem.
 
+[View Interactive Mindmap](https://github.com/ronakmunjapara/mindmaps-knowledge-base/blob/main/markmap%20(1).html)
+
 
 ### **2. Mind Map Structure**
 
